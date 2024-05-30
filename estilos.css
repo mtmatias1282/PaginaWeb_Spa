@@ -1,17 +1,17 @@
 @font-face {
     font-family: 'Inter';
-    src: url('../labo_spa/fuentes/Inter/Inter-Regular.ttf');
+    src: url('./fuentes/Inter/Inter-Regular.ttf');
 
 }
 
 @font-face {
     font-family: 'Titulo2';
-    src: url('../labo_spa/fuentes/Inter/Inter-SemiBold.ttf');
+    src: url('./fuentes/Inter/Inter-SemiBold.ttf');
 }
 
 @font-face {
     font-family: 'Romanesco';
-    src: url('../labo_spa/fuentes/Romanesco/Romanesco-Regular.ttf');
+    src: url('./fuentes/Romanesco/Romanesco-Regular.ttf');
 }
 
 body{
