@@ -89,7 +89,7 @@ header ul li:hover{
 /*******************************************************************************/
 
 .frase{
-    background-image: url('../labo_spa/images/main.png');
+    background-image: url('./images/main.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
