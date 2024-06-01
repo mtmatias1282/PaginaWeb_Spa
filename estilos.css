@@ -98,7 +98,7 @@ header ul li:hover{
     height: 670px;
 }
 
-.frase h1{
+.frase p{
     font-family: 'Romanesco';
     font-size: 96px;
     color: #000;
@@ -111,7 +111,7 @@ header ul li:hover{
     font-size: 32px;
     color: #000;
     margin: 0px;
-    padding: 0px 200px 0px ;
+    padding: 30px 200px 0px ;
 }
 
 /*******************************************************************************/
@@ -240,6 +240,7 @@ main form input {
     width: 255px;
     height: 255px;
     border: #384001 10px solid;
+    background-color: #ffff;
     border-radius: 50%;
     display: flex;
     justify-content: center;
